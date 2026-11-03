@@ -1,0 +1,4 @@
+# No third-party dependencies. This project uses only the Python standard
+# library (argparse, fnmatch, hashlib, json, os, pathlib, unittest), so
+# there is nothing to install. This file exists so the dependency story
+# is explicit rather than implied.
