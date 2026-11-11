@@ -121,4 +121,4 @@ or touched.
 Python 3.8+ (uses the walrus operator in the hashing loop). No
 third-party packages — see `requirements.txt`.
 
-*Built by Prashant Shrestha · Mississauga, ON 🇨🇦 · [LinkedIn](https://www.linkedin.com/in/cto-prashant/)*
+*Built by Prashant Shrestha · Mississauga, ON 🇨🇦 · [LinkedIn](https://www.linkedin.com/in/prashant-me/)*
